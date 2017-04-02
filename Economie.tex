@@ -1,0 +1,48 @@
+\documentclass[10pt,a4paper]{article}
+
+%
+% 			PREAMBLE
+%
+\input{Packages}
+\input{Hoofding}
+\input{Woordenlijst}
+
+\makeindex[intoc]
+
+% \immediate\write18{git rev-parse --short HEAD > commit.tex}
+
+%
+% 			DOCUMENT
+%
+\begin{document}
+
+% Titel
+\input{Titel}
+
+% Inhoudstafel
+\tableofcontents
+
+% Lijst van figuren en tabellen
+%\listoffigures
+%\listoftables
+
+% Hoofdstukken
+\subfile{Inleiding}
+\subfile{Hoofdstuk1}
+\subfile{Hoofdstuk2}
+\subfile{Hoofdstuk3}
+\subfile{Hoofdstuk4}
+\subfile{Hoofdstuk5}
+\subfile{Hoofdstuk6}
+%\subfile{Hoofdstuk7}
+
+% Appendix
+\newpage
+\appendix
+\subfile{Appendix}
+
+% Index & Woordenlijst
+\printindex
+\printglossaries
+
+\end{document}
