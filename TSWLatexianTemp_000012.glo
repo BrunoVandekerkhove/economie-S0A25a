@@ -1,0 +1,334 @@
+\glossaryentry{econ?\glossentry{econ}|glsseeformat[\seename ]{homo economicus}}{Z}
+\glossaryentry{goederenmarkt?\glossentry{goederenmarkt}|glsseeformat[\seename ]{reele sector}}{Z}
+\glossaryentry{participatiegraad?\glossentry{participatiegraad}|glsseeformat[\seename ]{activiteitsgraad}}{Z}
+\glossaryentry{werkzaamheidsgraad?\glossentry{werkzaamheidsgraad}|glsseeformat[\seename ]{werkgelegenheidsgraad}}{Z}
+\glossaryentry{wereldhandel?\glossentry{wereldhandel}|glsseeformat[\seename ]{internationale handel}}{Z}
+\glossaryentry{productiemogelijkhedencurve?\glossentry{productiemogelijkhedencurve}|glsseeformat[\seename ]{transformatiecurve}}{Z}
+\glossaryentry{nulsomspel?\glossentry{nulsomspel}|glsseeformat[\seename ]{zero sum game}}{Z}
+\glossaryentry{natuurlijke logaritme?\glossentry{natuurlijke logaritme}|glsseeformat[\seename ]{logaritme}}{Z}
+\glossaryentry{algemene vraagvergelijking?\glossentry{algemene vraagvergelijking}|glsseeformat[\seename ]{algemene vraagfunctie}}{Z}
+\glossaryentry{algemene aanbodvergelijking?\glossentry{algemene aanbodvergelijking}|glsseeformat[\seename ]{algemene vraagfunctie}}{Z}
+\glossaryentry{natuurlijk monopolie?\glossentry{natuurlijk monopolie}|glsseeformat[\seename ]{monopolie}}{Z}
+\glossaryentry{marginal cost pricing?\glossentry{marginal cost pricing}|glsseeformat[\seename ]{bindende maximumprijs}}{Z}
+\glossaryentry{octrooi?\glossentry{octrooi}|glsseeformat[\seename ]{patent}}{Z}
+\glossaryentry{duopolie?\glossentry{duopolie}|glsseeformat[\seename ]{oligopolie}}{Z}
+\glossaryentry{emissiehandel?\glossentry{emissiehandel}|glsseeformat[\seename ]{emissierecht}}{Z}
+\glossaryentry{merit good?\glossentry{merit good}|glsseeformat[\seename ]{verdienstengoed}}{Z}
+\glossaryentry{vlaktaks?\glossentry{vlaktaks}|glsseeformat[\seename ]{proportionele belasting}}{Z}
+\glossaryentry{fondsvorming?\glossentry{fondsvorming}|glsseeformat[\seename ]{kapitalisatie}}{Z}
+\glossaryentry{depreciatie?\glossentry{depreciatie}|glsseeformat[\seename ]{afschrijving}}{Z}
+\glossaryentry{statbel?\glossentry{statbel}|glsseeformat[\seename ]{ad statistiek}}{Z}
+\glossaryentry{nis?\glossentry{nis}|glsseeformat[\seename ]{ad statistiek}}{Z}
+\glossaryentry{austeriteitspolitiek?\glossentry{austeriteitspolitiek}|glsseeformat[\seename ]{besparingspolitiek}}{Z}
+\glossaryentry{nnbi?\glossentry{nnbi}|glsseeformat[\seename ]{nni}}{Z}
+\glossaryentry{inflatoire druk?\glossentry{inflatoire druk}|glsseeformat[\seename ]{inflatie}}{Z}
+\glossaryentry{desinflatie?\glossentry{desinflatie}|glsseeformat[\seename ]{inflatie}}{Z}
+\glossaryentry{micro-economie?\glossentry{micro-economie}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{macro-economie?\glossentry{macro-economie}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{reele sector?\glossentry{reele sector}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{financiele sector?\glossentry{financiele sector}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{homo economicus?\glossentry{homo economicus}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{econ?\glossentry{econ}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{marginale opbrengst?\glossentry{marginale opbrengst}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{marginale kost?\glossentry{marginale kost}|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{afgeleide?\glossentry{afgeleide}|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{intrinsieke motivatie?\glossentry{intrinsieke motivatie}|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{extrensieke motivatie?\glossentry{extrensieke motivatie}|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{toegevoegde waarde?\glossentry{toegevoegde waarde}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{intermediaire goederen?\glossentry{intermediaire goederen}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{tijdsreeks?\glossentry{tijdsreeks}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{doorsnedegegevens?\glossentry{doorsnedegegevens}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{reele groei?\glossentry{reele groei}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{nominale groei?\glossentry{nominale groei}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{koopkrachtpariteit (KKP)?\glossentry{koopkrachtpariteit (KKP)}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{logaritme?\glossentry{logaritme}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{convergentie?\glossentry{convergentie}|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{divergentie?\glossentry{divergentie}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{arbeidsproductiviteit?\glossentry{arbeidsproductiviteit}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{arbeidsduur?\glossentry{arbeidsduur}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{activiteitsgraad?\glossentry{activiteitsgraad}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{participatiegraad?\glossentry{participatiegraad}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{werkloosheidsgraad?\glossentry{werkloosheidsgraad}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{vergrijzing?\glossentry{vergrijzing}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{werkgelegenheidsgraad?\glossentry{werkgelegenheidsgraad}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{arbeidsverdeling?\glossentry{arbeidsverdeling}|setentrycounter[]{page}\glsnumberformat}{6}
+\glossaryentry{internationale handel?\glossentry{internationale handel}|setentrycounter[]{page}\glsnumberformat}{7}
+\glossaryentry{economische kringloop?\glossentry{economische kringloop}|setentrycounter[]{page}\glsnumberformat}{7}
+\glossaryentry{opportuniteitskost?\glossentry{opportuniteitskost}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{comparatief voordeel?\glossentry{comparatief voordeel}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{zero sum game?\glossentry{zero sum game}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{productiemogelijkhedencurve?\glossentry{productiemogelijkhedencurve}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{transformatiecurve?\glossentry{transformatiecurve}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{stroomveranderlijke?\glossentry{stroomveranderlijke}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{voorraadveranderlijke?\glossentry{voorraadveranderlijke}|setentrycounter[]{page}\glsnumberformat}{8}
+\glossaryentry{econometrie?\glossentry{econometrie}|setentrycounter[]{page}\glsnumberformat}{9}
+\glossaryentry{causaliteit?\glossentry{causaliteit}|setentrycounter[]{page}\glsnumberformat}{9}
+\glossaryentry{correlatie?\glossentry{correlatie}|setentrycounter[]{page}\glsnumberformat}{9}
+\glossaryentry{positieve uitspraak?\glossentry{positieve uitspraak}|setentrycounter[]{page}\glsnumberformat}{9}
+\glossaryentry{normatieve uitspraak?\glossentry{normatieve uitspraak}|setentrycounter[]{page}\glsnumberformat}{9}
+\glossaryentry{prijsnemerschap?\glossentry{prijsnemerschap}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{homogeen?\glossentry{homogeen}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{algemene vraagfunctie?\glossentry{algemene vraagfunctie}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{substitutieproduct?\glossentry{substitutieproduct}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{complementair product?\glossentry{complementair product}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{partiele vraagfunctie?\glossentry{partiele vraagfunctie}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{algemene aanbodfunctie?\glossentry{algemene aanbodfunctie}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{partiele aanbodfunctie?\glossentry{partiele aanbodfunctie}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{ceteris paribus?\glossentry{ceteris paribus}|setentrycounter[]{page}\glsnumberformat}{10}
+\glossaryentry{marktevenwicht?\glossentry{marktevenwicht}|setentrycounter[]{page}\glsnumberformat}{11}
+\glossaryentry{vraagoverschot?\glossentry{vraagoverschot}|setentrycounter[]{page}\glsnumberformat}{11}
+\glossaryentry{aanbodoverschot?\glossentry{aanbodoverschot}|setentrycounter[]{page}\glsnumberformat}{11}
+\glossaryentry{consumentensurplus?\glossentry{consumentensurplus}|setentrycounter[]{page}\glsnumberformat}{11}
+\glossaryentry{producentensurplus?\glossentry{producentensurplus}|setentrycounter[]{page}\glsnumberformat}{11}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{11}
+\glossaryentry{boogelasticiteit?\glossentry{boogelasticiteit}|setentrycounter[]{page}\glsnumberformat}{12}
+\glossaryentry{puntelasticiteit?\glossentry{puntelasticiteit}|setentrycounter[]{page}\glsnumberformat}{12}
+\glossaryentry{normaal goed?\glossentry{normaal goed}|setentrycounter[]{page}\glsnumberformat}{13}
+\glossaryentry{inferieur goed?\glossentry{inferieur goed}|setentrycounter[]{page}\glsnumberformat}{13}
+\glossaryentry{noodzakelijk goed?\glossentry{noodzakelijk goed}|setentrycounter[]{page}\glsnumberformat}{13}
+\glossaryentry{luxegoed?\glossentry{luxegoed}|setentrycounter[]{page}\glsnumberformat}{13}
+\glossaryentry{kruiselingse prijselasticiteit?\glossentry{kruiselingse prijselasticiteit}|setentrycounter[]{page}\glsnumberformat}{13}
+\glossaryentry{vraagschok?\glossentry{vraagschok}|setentrycounter[]{page}\glsnumberformat}{13}
+\glossaryentry{belasting?\glossentry{belasting}|setentrycounter[]{page}\glsnumberformat}{14}
+\glossaryentry{subsidie?\glossentry{subsidie}|setentrycounter[]{page}\glsnumberformat}{14}
+\glossaryentry{marktconform?\glossentry{marktconform}|setentrycounter[]{page}\glsnumberformat}{14}
+\glossaryentry{bindende maximumprijs?\glossentry{bindende maximumprijs}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{bindende minimumprijs?\glossentry{bindende minimumprijs}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{vraagoverschot?\glossentry{vraagoverschot}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{rantsoenering?\glossentry{rantsoenering}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{aanbodoverschot?\glossentry{aanbodoverschot}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{steunaankoop?\glossentry{steunaankoop}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{marktconform?\glossentry{marktconform}|setentrycounter[]{page}\glsnumberformat}{15}
+\glossaryentry{marktvorm?\glossentry{marktvorm}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{homogeen?\glossentry{homogeen}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{normatieve uitspraak?\glossentry{normatieve uitspraak}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{pareto-verbetering?\glossentry{pareto-verbetering}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{volmaakte mededinging?\glossentry{volmaakte mededinging}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{prijsnemerschap?\glossentry{prijsnemerschap}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{productiemogelijkhedencurve?\glossentry{productiemogelijkhedencurve}|setentrycounter[]{page}\glsnumberformat}{16}
+\glossaryentry{schaalopbrengsten?\glossentry{schaalopbrengsten}|setentrycounter[]{page}\glsnumberformat}{17}
+\glossaryentry{creatieve destructie?\glossentry{creatieve destructie}|setentrycounter[]{page}\glsnumberformat}{19}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{19}
+\glossaryentry{monopolie?\glossentry{monopolie}|setentrycounter[]{page}\glsnumberformat}{20}
+\glossaryentry{perfecte prijsdiscriminatie?\glossentry{perfecte prijsdiscriminatie}|setentrycounter[]{page}\glsnumberformat}{21}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{22}
+\glossaryentry{marktsegmentatie?\glossentry{marktsegmentatie}|setentrycounter[]{page}\glsnumberformat}{22}
+\glossaryentry{natuurlijk monopolie?\glossentry{natuurlijk monopolie}|setentrycounter[]{page}\glsnumberformat}{22}
+\glossaryentry{schaalopbrengsten?\glossentry{schaalopbrengsten}|setentrycounter[]{page}\glsnumberformat}{22}
+\glossaryentry{nutsbedrijf?\glossentry{nutsbedrijf}|setentrycounter[]{page}\glsnumberformat}{23}
+\glossaryentry{marginal cost pricing?\glossentry{marginal cost pricing}|setentrycounter[]{page}\glsnumberformat}{23}
+\glossaryentry{bindende maximumprijs?\glossentry{bindende maximumprijs}|setentrycounter[]{page}\glsnumberformat}{23}
+\glossaryentry{statische efficientie?\glossentry{statische efficientie}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{dynamische efficientie?\glossentry{dynamische efficientie}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{patent?\glossentry{patent}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{octrooi?\glossentry{octrooi}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{homogeen oligopolie?\glossentry{homogeen oligopolie}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{oligopolie?\glossentry{oligopolie}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{duopolie?\glossentry{duopolie}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{kartel?\glossentry{kartel}|setentrycounter[]{page}\glsnumberformat}{24}
+\glossaryentry{cournot-evenwicht?\glossentry{cournot-evenwicht}|setentrycounter[]{page}\glsnumberformat}{25}
+\glossaryentry{speltheorie?\glossentry{speltheorie}|setentrycounter[]{page}\glsnumberformat}{26}
+\glossaryentry{dominante strategie?\glossentry{dominante strategie}|setentrycounter[]{page}\glsnumberformat}{26}
+\glossaryentry{gedomineerde strategie?\glossentry{gedomineerde strategie}|setentrycounter[]{page}\glsnumberformat}{26}
+\glossaryentry{nash-evenwicht?\glossentry{nash-evenwicht}|setentrycounter[]{page}\glsnumberformat}{26}
+\glossaryentry{cournot-evenwicht?\glossentry{cournot-evenwicht}|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{productdifferentiatie?\glossentry{productdifferentiatie}|setentrycounter[]{page}\glsnumberformat}{28}
+\glossaryentry{productdifferentiatie?\glossentry{productdifferentiatie}|setentrycounter[]{page}\glsnumberformat}{29}
+\glossaryentry{marktmacht?\glossentry{marktmacht}|setentrycounter[]{page}\glsnumberformat}{29}
+\glossaryentry{niche?\glossentry{niche}|setentrycounter[]{page}\glsnumberformat}{29}
+\glossaryentry{monopolistische mededinging?\glossentry{monopolistische mededinging}|setentrycounter[]{page}\glsnumberformat}{29}
+\glossaryentry{asymmetrische informatie?\glossentry{asymmetrische informatie}|setentrycounter[]{page}\glsnumberformat}{30}
+\glossaryentry{averechtse selectie?\glossentry{averechtse selectie}|setentrycounter[]{page}\glsnumberformat}{30}
+\glossaryentry{missing market?\glossentry{missing market}|setentrycounter[]{page}\glsnumberformat}{30}
+\glossaryentry{moral hazard?\glossentry{moral hazard}|setentrycounter[]{page}\glsnumberformat}{30}
+\glossaryentry{averechtse selectie?\glossentry{averechtse selectie}|setentrycounter[]{page}\glsnumberformat}{30}
+\glossaryentry{marktfaling?\glossentry{marktfaling}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{publiek goed?\glossentry{publiek goed}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{extern effect?\glossentry{extern effect}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{publiek goed?\glossentry{publiek goed}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{extern effect?\glossentry{extern effect}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{publiek goed?\glossentry{publiek goed}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{privaat goed?\glossentry{privaat goed}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{common?\glossentry{common}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{clubgoed?\glossentry{clubgoed}|setentrycounter[]{page}\glsnumberformat}{32}
+\glossaryentry{speltheorie?\glossentry{speltheorie}|setentrycounter[]{page}\glsnumberformat}{33}
+\glossaryentry{dominante strategie?\glossentry{dominante strategie}|setentrycounter[]{page}\glsnumberformat}{33}
+\glossaryentry{vrijbuitersgedrag?\glossentry{vrijbuitersgedrag}|setentrycounter[]{page}\glsnumberformat}{33}
+\glossaryentry{extern effect?\glossentry{extern effect}|setentrycounter[]{page}\glsnumberformat}{33}
+\glossaryentry{eigendomsrechten?\glossentry{eigendomsrechten}|setentrycounter[]{page}\glsnumberformat}{35}
+\glossaryentry{milieuheffing?\glossentry{milieuheffing}|setentrycounter[]{page}\glsnumberformat}{35}
+\glossaryentry{pigouviaanse belasting?\glossentry{pigouviaanse belasting}|setentrycounter[]{page}\glsnumberformat}{35}
+\glossaryentry{pareto-efficientie?\glossentry{pareto-efficientie}|setentrycounter[]{page}\glsnumberformat}{36}
+\glossaryentry{emissierecht?\glossentry{emissierecht}|setentrycounter[]{page}\glsnumberformat}{36}
+\glossaryentry{emissiehandel?\glossentry{emissiehandel}|setentrycounter[]{page}\glsnumberformat}{36}
+\glossaryentry{merit good?\glossentry{merit good}|setentrycounter[]{page}\glsnumberformat}{37}
+\glossaryentry{verdienstengoed?\glossentry{verdienstengoed}|setentrycounter[]{page}\glsnumberformat}{37}
+\glossaryentry{verdienstengoed?\glossentry{verdienstengoed}|setentrycounter[]{page}\glsnumberformat}{37}
+\glossaryentry{demerit good?\glossentry{demerit good}|setentrycounter[]{page}\glsnumberformat}{37}
+\glossaryentry{primair inkomen?\glossentry{primair inkomen}|setentrycounter[]{page}\glsnumberformat}{37}
+\glossaryentry{beschikbaar inkomen?\glossentry{beschikbaar inkomen}|setentrycounter[]{page}\glsnumberformat}{37}
+\glossaryentry{publiek goed?\glossentry{publiek goed}|setentrycounter[]{page}\glsnumberformat}{38}
+\glossaryentry{lorenzcurve?\glossentry{lorenzcurve}|setentrycounter[]{page}\glsnumberformat}{38}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{39}
+\glossaryentry{OESO?\glossentry{OESO}|setentrycounter[]{page}\glsnumberformat}{39}
+\glossaryentry{OESO?\glossentry{OESO}|setentrycounter[]{page}\glsnumberformat}{40}
+\glossaryentry{Occupy Wall Street?\glossentry{Occupy Wall Street}|setentrycounter[]{page}\glsnumberformat}{40}
+\glossaryentry{primair inkomen?\glossentry{primair inkomen}|setentrycounter[]{page}\glsnumberformat}{40}
+\glossaryentry{vergrijzing?\glossentry{vergrijzing}|setentrycounter[]{page}\glsnumberformat}{40}
+\glossaryentry{assortive mating?\glossentry{assortive mating}|setentrycounter[]{page}\glsnumberformat}{40}
+\glossaryentry{sociale mobiliteit?\glossentry{sociale mobiliteit}|setentrycounter[]{page}\glsnumberformat}{40}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{41}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{41}
+\glossaryentry{convergentie?\glossentry{convergentie}|setentrycounter[]{page}\glsnumberformat}{41}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{41}
+\glossaryentry{koopkrachtpariteit (KKP)?\glossentry{koopkrachtpariteit (KKP)}|setentrycounter[]{page}\glsnumberformat}{42}
+\glossaryentry{mediaaninkomen?\glossentry{mediaaninkomen}|setentrycounter[]{page}\glsnumberformat}{42}
+\glossaryentry{werkintensiteit?\glossentry{werkintensiteit}|setentrycounter[]{page}\glsnumberformat}{42}
+\glossaryentry{armoedegrens?\glossentry{armoedegrens}|setentrycounter[]{page}\glsnumberformat}{42}
+\glossaryentry{progressieve belasting?\glossentry{progressieve belasting}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{proportionele belasting?\glossentry{proportionele belasting}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{vlaktaks?\glossentry{vlaktaks}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{regressieve belasting?\glossentry{regressieve belasting}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{44}
+\glossaryentry{lorenzcurve?\glossentry{lorenzcurve}|setentrycounter[]{page}\glsnumberformat}{45}
+\glossaryentry{draagkrachtprincipe?\glossentry{draagkrachtprincipe}|setentrycounter[]{page}\glsnumberformat}{45}
+\glossaryentry{verzekeringselement?\glossentry{verzekeringselement}|setentrycounter[]{page}\glsnumberformat}{46}
+\glossaryentry{mattheuseffect?\glossentry{mattheuseffect}|setentrycounter[]{page}\glsnumberformat}{46}
+\glossaryentry{averechtse selectie?\glossentry{averechtse selectie}|setentrycounter[]{page}\glsnumberformat}{46}
+\glossaryentry{moral hazard?\glossentry{moral hazard}|setentrycounter[]{page}\glsnumberformat}{46}
+\glossaryentry{pensioen?\glossentry{pensioen}|setentrycounter[]{page}\glsnumberformat}{47}
+\glossaryentry{kapitalisatie?\glossentry{kapitalisatie}|setentrycounter[]{page}\glsnumberformat}{47}
+\glossaryentry{repartitieprincipe?\glossentry{repartitieprincipe}|setentrycounter[]{page}\glsnumberformat}{47}
+\glossaryentry{vergrijzing?\glossentry{vergrijzing}|setentrycounter[]{page}\glsnumberformat}{47}
+\glossaryentry{gini-coefficient?\glossentry{gini-coefficient}|setentrycounter[]{page}\glsnumberformat}{47}
+\glossaryentry{mattheuseffect?\glossentry{mattheuseffect}|setentrycounter[]{page}\glsnumberformat}{48}
+\glossaryentry{mattheuseffect?\glossentry{mattheuseffect}|setentrycounter[]{page}\glsnumberformat}{49}
+\glossaryentry{woonbonus?\glossentry{woonbonus}|setentrycounter[]{page}\glsnumberformat}{49}
+\glossaryentry{huurtoelage?\glossentry{huurtoelage}|setentrycounter[]{page}\glsnumberformat}{49}
+\glossaryentry{moral hazard?\glossentry{moral hazard}|setentrycounter[]{page}\glsnumberformat}{49}
+\glossaryentry{efficiency-equity trade-off?\glossentry{efficiency-equity trade-off}|setentrycounter[]{page}\glsnumberformat}{49}
+\glossaryentry{ninja-lening?\glossentry{ninja-lening}|setentrycounter[]{page}\glsnumberformat}{49}
+\glossaryentry{micro-economie?\glossentry{micro-economie}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{macro-economie?\glossentry{macro-economie}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{marktfaling?\glossentry{marktfaling}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{deflatie?\glossentry{deflatie}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{aanbodoverschot?\glossentry{aanbodoverschot}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{werkloosheidsgraad?\glossentry{werkloosheidsgraad}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{loonstarheid?\glossentry{loonstarheid}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{aggregatieve vraag?\glossentry{aggregatieve vraag}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{nationale boekhouding?\glossentry{nationale boekhouding}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{kapitaalstock?\glossentry{kapitaalstock}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{depreciatie?\glossentry{depreciatie}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{afschrijving?\glossentry{afschrijving}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{bni?\glossentry{bni}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{stroomveranderlijke?\glossentry{stroomveranderlijke}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{intermediaire goederen?\glossentry{intermediaire goederen}|setentrycounter[]{page}\glsnumberformat}{50}
+\glossaryentry{investering?\glossentry{investering}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{binnenlandse vraag?\glossentry{binnenlandse vraag}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{handelsbalans?\glossentry{handelsbalans}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{binnenlandse vraag?\glossentry{binnenlandse vraag}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{handelsbalans?\glossentry{handelsbalans}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{austeriteitspolitiek?\glossentry{austeriteitspolitiek}|setentrycounter[]{page}\glsnumberformat}{51}
+\glossaryentry{loon-prijsspiraal?\glossentry{loon-prijsspiraal}|setentrycounter[]{page}\glsnumberformat}{53}
+\glossaryentry{open economie?\glossentry{open economie}|setentrycounter[]{page}\glsnumberformat}{53}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{factorinkomen?\glossentry{factorinkomen}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bni?\glossentry{bni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{afschrijving?\glossentry{afschrijving}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bni?\glossentry{bni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{nni?\glossentry{nni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{transfer?\glossentry{transfer}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{nni?\glossentry{nni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{nnbi?\glossentry{nnbi}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bni?\glossentry{bni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{nni?\glossentry{nni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bni?\glossentry{bni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bni?\glossentry{bni}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{nnbi?\glossentry{nnbi}|setentrycounter[]{page}\glsnumberformat}{54}
+\glossaryentry{lopende rekening?\glossentry{lopende rekening}|setentrycounter[]{page}\glsnumberformat}{55}
+\glossaryentry{sparen?\glossentry{sparen}|setentrycounter[]{page}\glsnumberformat}{55}
+\glossaryentry{totaal beschikbaar overheidsinkomen?\glossentry{totaal beschikbaar overheidsinkomen}|setentrycounter[]{page}\glsnumberformat}{55}
+\glossaryentry{lopende rekening?\glossentry{lopende rekening}|setentrycounter[]{page}\glsnumberformat}{56}
+\glossaryentry{reservemunt?\glossentry{reservemunt}|setentrycounter[]{page}\glsnumberformat}{56}
+\glossaryentry{betalingsbalans?\glossentry{betalingsbalans}|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{nominale groei?\glossentry{nominale groei}|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{reele groei?\glossentry{reele groei}|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{57}
+\glossaryentry{recursief?\glossentry{recursief}|setentrycounter[]{page}\glsnumberformat}{58}
+\glossaryentry{outputkloof?\glossentry{outputkloof}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{conjuncturele werkloosheid?\glossentry{conjuncturele werkloosheid}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{inflatoire druk?\glossentry{inflatoire druk}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{koopkrachtpariteit (KKP)?\glossentry{koopkrachtpariteit (KKP)}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{goederenmarkt?\glossentry{goederenmarkt}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{wisselmarkt?\glossentry{wisselmarkt}|setentrycounter[]{page}\glsnumberformat}{59}
+\glossaryentry{inflatie?\glossentry{inflatie}|setentrycounter[]{page}\glsnumberformat}{60}
+\glossaryentry{BBP-deflator?\glossentry{BBP-deflator}|setentrycounter[]{page}\glsnumberformat}{60}
+\glossaryentry{deflatie?\glossentry{deflatie}|setentrycounter[]{page}\glsnumberformat}{60}
+\glossaryentry{expansief monetair beleid?\glossentry{expansief monetair beleid}|setentrycounter[]{page}\glsnumberformat}{60}
+\glossaryentry{macro-economie?\glossentry{macro-economie}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{macro-economie?\glossentry{macro-economie}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{outputkloof?\glossentry{outputkloof}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{conjuncturele werkloosheid?\glossentry{conjuncturele werkloosheid}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{participatiegraad?\glossentry{participatiegraad}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{activiteitsgraad?\glossentry{activiteitsgraad}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{werkgelegenheidsgraad?\glossentry{werkgelegenheidsgraad}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{werkzaamheidsgraad?\glossentry{werkzaamheidsgraad}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{arbeidsproductiviteit?\glossentry{arbeidsproductiviteit}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{werkloosheidsgraad?\glossentry{werkloosheidsgraad}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{arbeidsproductiviteit?\glossentry{arbeidsproductiviteit}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{volmaakte mededinging?\glossentry{volmaakte mededinging}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{natuurlijke werkloosheid?\glossentry{natuurlijke werkloosheid}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{outputkloof?\glossentry{outputkloof}|setentrycounter[]{page}\glsnumberformat}{61}
+\glossaryentry{activiteitsgraad?\glossentry{activiteitsgraad}|setentrycounter[]{page}\glsnumberformat}{62}
+\glossaryentry{ceteris paribus?\glossentry{ceteris paribus}|setentrycounter[]{page}\glsnumberformat}{62}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{kapitaalstock?\glossentry{kapitaalstock}|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{scholingspremie?\glossentry{scholingspremie}|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{globalisering?\glossentry{globalisering}|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{scholingspremie?\glossentry{scholingspremie}|setentrycounter[]{page}\glsnumberformat}{63}
+\glossaryentry{belasting?\glossentry{belasting}|setentrycounter[]{page}\glsnumberformat}{64}
+\glossaryentry{activiteitsgraad?\glossentry{activiteitsgraad}|setentrycounter[]{page}\glsnumberformat}{64}
+\glossaryentry{brutoloon?\glossentry{brutoloon}|setentrycounter[]{page}\glsnumberformat}{64}
+\glossaryentry{nettoloon?\glossentry{nettoloon}|setentrycounter[]{page}\glsnumberformat}{64}
+\glossaryentry{loonkosten?\glossentry{loonkosten}|setentrycounter[]{page}\glsnumberformat}{64}
+\glossaryentry{loonwig?\glossentry{loonwig}|setentrycounter[]{page}\glsnumberformat}{64}
+\glossaryentry{natuurlijke werkloosheid?\glossentry{natuurlijke werkloosheid}|setentrycounter[]{page}\glsnumberformat}{65}
+\glossaryentry{inflatie?\glossentry{inflatie}|setentrycounter[]{page}\glsnumberformat}{65}
+\glossaryentry{conjuncturele werkloosheid?\glossentry{conjuncturele werkloosheid}|setentrycounter[]{page}\glsnumberformat}{65}
+\glossaryentry{inflatoire druk?\glossentry{inflatoire druk}|setentrycounter[]{page}\glsnumberformat}{65}
+\glossaryentry{loonstarheid?\glossentry{loonstarheid}|setentrycounter[]{page}\glsnumberformat}{65}
+\glossaryentry{efficientieloon?\glossentry{efficientieloon}|setentrycounter[]{page}\glsnumberformat}{65}
+\glossaryentry{frictionele werkloosheid?\glossentry{frictionele werkloosheid}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{structurele werkloosheid?\glossentry{structurele werkloosheid}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{convergentie?\glossentry{convergentie}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{bbp?\glossentry{bbp}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{arbeidsproductiviteit?\glossentry{arbeidsproductiviteit}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{productiefunctie?\glossentry{productiefunctie}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{schaalopbrengsten?\glossentry{schaalopbrengsten}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{tfp?\glossentry{tfp}|setentrycounter[]{page}\glsnumberformat}{66}
+\glossaryentry{kapitaalintensiteit?\glossentry{kapitaalintensiteit}|setentrycounter[]{page}\glsnumberformat}{67}
+\glossaryentry{kapitaalintensiteit?\glossentry{kapitaalintensiteit}|setentrycounter[]{page}\glsnumberformat}{67}
+\glossaryentry{afgeleide?\glossentry{afgeleide}|setentrycounter[]{page}\glsnumberformat}{71}
+\glossaryentry{logaritme?\glossentry{logaritme}|setentrycounter[]{page}\glsnumberformat}{72}
+\glossaryentry{natuurlijke logaritme?\glossentry{natuurlijke logaritme}|setentrycounter[]{page}\glsnumberformat}{72}
+\glossaryentry{groeivoet?\glossentry{groeivoet}|setentrycounter[]{page}\glsnumberformat}{72}
+\glossaryentry{natuurlijke logaritme?\glossentry{natuurlijke logaritme}|setentrycounter[]{page}\glsnumberformat}{72}
