@@ -4,4 +4,4 @@ Dit document vat het vak economie (S0A25a) samen, om een beter overzicht te krij
 
 De samenvatting is nog niet volledig (16 van de 23 lessen).
 
-[Het PDF uitvoer bestand is te vinden op Scribd.](https://www.scribd.com/document/367243894/Samenvatting-Economie-S0A25a)
+[Het PDF uitvoerbestand is te vinden op Scribd.](https://www.scribd.com/document/367243894/Samenvatting-Economie-S0A25a)
