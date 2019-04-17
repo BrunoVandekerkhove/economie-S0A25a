@@ -17,24 +17,24 @@
 \begin{document}
 
 % Titel
-\input{Titel}
+\subfile{Titel}
 
 % Inhoudstafel
-\tableofcontents
+\tableofcontents\clearpage
 
 % Lijst van figuren en tabellen
 %\listoffigures
 %\listoftables
 
 % Hoofdstukken
-\subfile{Inleiding}
-\subfile{Hoofdstuk1}
-\subfile{Hoofdstuk2}
-\subfile{Hoofdstuk3}
-\subfile{Hoofdstuk4}
-\subfile{Hoofdstuk5}
-\subfile{Hoofdstuk6}
-\subfile{Hoofdstuk7}
+\subfile{Inleiding}\clearpage
+\subfile{Hoofdstuk1}\clearpage
+\subfile{Hoofdstuk2}\clearpage
+\subfile{Hoofdstuk3}\clearpage
+\subfile{Hoofdstuk4}\clearpage
+\subfile{Hoofdstuk5}\clearpage
+\subfile{Hoofdstuk6}\clearpage
+\subfile{Hoofdstuk7}\clearpage
 
 % Appendix
 \newpage
@@ -43,6 +43,6 @@
 
 % Index & Woordenlijst
 \printindex
-\printglossaries
+\glstoctrue\printglossaries
 
 \end{document}
